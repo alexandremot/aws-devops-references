@@ -1,6 +1,4 @@
 
-# links - referências<br>
-
 ## // aws<br>
 
 ###### CICD using AWS CodePipeline and Elastic Bean Stalk | DevOps | Tech Primers<br>
