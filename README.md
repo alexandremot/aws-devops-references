@@ -7,6 +7,11 @@
 ###### AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less<br>
 ###### https://www.youtube.com/watch?v=YQsK4MtsELU&t=229s
 
+## // aws python sdk<br>
+
+###### Code examples that show how to use Boto3 to access Amazon Web Services (AWS).
+###### https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/python
+
 ## // devops<br>
 
 ###### 5 DevOps Books to Read for FREE
