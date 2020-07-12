@@ -22,3 +22,13 @@
 ###### https://dev.to/aakatev/5-devops-books-to-read-for-free-3860
 
 ---
+
+## // git<br>
+
+###### [cambridge] Lecture 6: Version Control (git) (2020)
+###### https://youtu.be/2sjqTHE0zok
+
+
+###### [google] Tech Talk: Linus Torvalds on git
+###### https://youtu.be/4XpnKHJAok8
+---
