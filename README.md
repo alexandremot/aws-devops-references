@@ -21,6 +21,10 @@
 ###### 5 DevOps Books to Read for FREE
 ###### https://dev.to/aakatev/5-devops-books-to-read-for-free-3860
 
+
+###### Evoluindo a arquitetura do Itaú-Unibanco: Do Mainframe para Java
+###### https://youtu.be/bssgpN34ATs
+
 ---
 
 ## // git<br>
