@@ -30,8 +30,7 @@
 ###### https://youtu.be/Vt7Eg4wWNDw
 
 
-###### katakoda
-###### Interactive Learning and Training Platform for Software Engineers Helping Developers Learn and Companies Increase Adoption<br>
+###### [katakoda] Interactive Learning and Training Platform for Software Engineers Helping Developers Learn and Companies Increase Adoption<br>
 ###### https://katacoda.com/
 
 ---
