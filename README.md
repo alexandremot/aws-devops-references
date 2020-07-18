@@ -26,9 +26,12 @@
 ###### https://youtu.be/bssgpN34ATs
 
 
+###### Codando um Kubernetes Operator em Go
+###### https://youtu.be/Vt7Eg4wWNDw
+
+
 ###### katakoda
-Interactive Learning and Training Platform for Software Engineers<br>
-Helping Developers Learn and Companies Increase Adoption<br>
+###### Interactive Learning and Training Platform for Software Engineers Helping Developers Learn and Companies Increase Adoption<br>
 ###### https://katacoda.com/
 
 ---
