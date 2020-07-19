@@ -37,6 +37,10 @@
 
 ## // git<br>
 
+###### git log cheatsheet
+###### https://devhints.io/git-log
+
+
 ###### [cambridge] Lecture 6: Version Control (git) (2020)
 ###### https://youtu.be/2sjqTHE0zok
 
