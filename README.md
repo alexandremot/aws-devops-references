@@ -49,7 +49,7 @@
 ###### https://youtu.be/4XpnKHJAok8
 ---
 
-## etc
+## // etc
 
 ###### [ibm][o'reilly] Developing Open Cloud Native Microservices
 ###### https://www.ibm.com/downloads/cas/G3L0EPOL
