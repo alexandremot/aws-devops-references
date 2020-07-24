@@ -33,6 +33,10 @@
 ###### [katakoda] Interactive Learning and Training Platform for Software Engineers Helping Developers Learn and Companies Increase Adoption<br>
 ###### https://katacoda.com/
 
+
+###### you need to learn Ansible RIGHT NOW!! (Linux Automation)
+###### https://youtu.be/5hycyr-8EKs
+
 ---
 
 ## // git<br>
@@ -47,10 +51,12 @@
 
 ###### [google] Tech Talk: Linus Torvalds on git
 ###### https://youtu.be/4XpnKHJAok8
+
 ---
 
 ## // etc
 
 ###### [ibm][o'reilly] Developing Open Cloud Native Microservices
 ###### https://www.ibm.com/downloads/cas/G3L0EPOL
+
 ---
