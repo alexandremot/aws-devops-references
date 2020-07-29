@@ -9,6 +9,10 @@
 ###### AWS re:Invent 2018: Become an IAM Policy Master in 60 Minutes or Less<br>
 ###### https://www.youtube.com/watch?v=YQsK4MtsELU&t=229s
 
+
+###### udemy : certificacao amazon aws 2019 solutions architect
+###### https://www.udemy.com/course/certificacao-amazon-aws-2019-solutions-architect/
+
 ## // aws python sdk<br>
 
 ###### Code examples that show how to use Boto3 to access Amazon Web Services (AWS).
