@@ -58,9 +58,14 @@
 
 ---
 
-## // etc
+## // microserviços
 
 ###### [ibm][o'reilly] Developing Open Cloud Native Microservices
 ###### https://www.ibm.com/downloads/cas/G3L0EPOL
 
 ---
+
+## // open banking
+
+###### tutorial febraban
+###### https://febraban.github.io/Open-Banking-/#introducao
