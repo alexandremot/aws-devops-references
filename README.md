@@ -58,6 +58,26 @@
 
 ---
 
+## // kafka<br>
+
+###### Hello World In Kafka Using Python
+###### https://timber.io/blog/hello-world-in-kafka-using-python/
+
+
+###### Kafka Tutorial: Writing a Kafka Producer in Java
+###### http://cloudurable.com/blog/kafka-tutorial-kafka-producer/index.html
+
+
+###### Tutorial: Usar as APIs de produtor e consumidor do Apache Kafka
+###### https://docs.microsoft.com/pt-br/azure/hdinsight/kafka/apache-kafka-producer-consumer-api
+
+
+###### apache kafka boot camp
+###### https://cloud.contentraven.com/confluent/learningpath-viewer/
+
+---
+
+
 ## // microserviços
 
 ###### [ibm][o'reilly] Developing Open Cloud Native Microservices
