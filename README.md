@@ -48,6 +48,8 @@
 ###### git log cheatsheet
 ###### https://devhints.io/git-log
 
+###### git — Rebase vs Merge
+###### https://medium.com/datadriveninvestor/git-rebase-vs-merge-cc5199edd77c
 
 ###### [cambridge] Lecture 6: Version Control (git) (2020)
 ###### https://youtu.be/2sjqTHE0zok
