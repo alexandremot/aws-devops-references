@@ -41,6 +41,13 @@
 ###### you need to learn Ansible RIGHT NOW!! (Linux Automation)
 ###### https://youtu.be/5hycyr-8EKs
 
+
+###### k6 : Open source load testing tool and SaaS for engineering teams
+###### https://k6.io/
+
+
+###### Gatling : Load test as code
+###### https://gatling.io/
 ---
 
 ## // git<br>
