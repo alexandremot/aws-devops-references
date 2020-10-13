@@ -83,7 +83,13 @@
 
 ###### apache kafka boot camp
 ###### https://cloud.contentraven.com/confluent/learningpath-viewer/
+---
 
+
+## // linux
+
+###### Linux cheat sheet
+###### https://github.com/alexandremot/devops-and-aws-references/blob/master/linux-cheat-sheet.jpg
 ---
 
 
