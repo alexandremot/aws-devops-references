@@ -92,11 +92,17 @@
 ###### https://github.com/alexandremot/devops-and-aws-references/blob/master/linux-cheat-sheet.jpg
 ---
 
-
 ## // microservices
 
 ###### [ibm][o'reilly] Developing Open Cloud Native Microservices
 ###### https://www.ibm.com/downloads/cas/G3L0EPOL
+
+---
+
+## // mngmt
+
+###### open project : Open source project management software. Powerful. Easy-to-use. Free.
+###### https://www.openproject.org/
 
 ---
 
