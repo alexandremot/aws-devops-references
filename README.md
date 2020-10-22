@@ -34,6 +34,10 @@
 ###### https://youtu.be/Vt7Eg4wWNDw
 
 
+###### Ritchie CLI: sua ferramenta de automação personalizável
+###### https://ritchiecli.io/
+
+
 ###### [katakoda] Interactive Learning and Training Platform for Software Engineers Helping Developers Learn and Companies Increase Adoption<br>
 ###### https://katacoda.com/
 
