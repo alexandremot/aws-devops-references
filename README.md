@@ -114,3 +114,10 @@
 
 ###### tutorial febraban
 ###### https://febraban.github.io/Open-Banking-/#introducao
+
+---
+
+## // etc
+
+###### "hello, world" from scratch on a 6502
+###### https://youtu.be/LnzuMJLZRdU
