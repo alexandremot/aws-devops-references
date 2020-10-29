@@ -18,6 +18,12 @@
 ###### Code examples that show how to use Boto3 to access Amazon Web Services (AWS).
 ###### https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/python
 
+
+## // erlang<br>
+
+###### erlang + aws
+###### https://github.com/thiagoesteves/aws_sse_sqs
+
 ---
 
 ## // devops<br>
