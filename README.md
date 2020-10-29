@@ -123,7 +123,7 @@
 
 ---
 
-## // etc
+## // escovando bits!
 
 ###### "hello, world" from scratch on a 6502
 ###### https://youtu.be/LnzuMJLZRdU
