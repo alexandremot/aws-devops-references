@@ -120,7 +120,12 @@
 
 ###### tutorial febraban
 ###### https://febraban.github.io/Open-Banking-/#introducao
+---
 
+## // postman
+
+###### What is Newman?
+###### https://support.postman.com/hc/en-us/articles/115003710329-What-is-Newman-
 ---
 
 ## // escovando bits!
