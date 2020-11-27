@@ -21,6 +21,9 @@
 
 ## // erlang<br>
 
+###### Erlang: The Movie
+###### https://youtu.be/xrIjfIjssLE
+
 ###### erlang + aws
 ###### https://github.com/thiagoesteves/aws_sse_sqs
 
