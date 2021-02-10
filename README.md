@@ -26,7 +26,6 @@
 
 ###### erlang + aws
 ###### https://github.com/thiagoesteves/aws_sse_sqs
-
 ---
 
 ## // devops<br>
@@ -77,7 +76,12 @@
 
 ###### [google] Tech Talk: Linus Torvalds on git
 ###### https://youtu.be/4XpnKHJAok8
+---
 
+## // jmeter<br>
+
+##### jmeter 2021 masterclass | automation step by step
+##### https://youtu.be/SoW2pBak1_Q
 ---
 
 ## // kafka<br>
@@ -98,7 +102,6 @@
 ###### https://cloud.contentraven.com/confluent/learningpath-viewer/
 ---
 
-
 ## // linux
 
 ###### Linux cheat sheet
@@ -109,14 +112,12 @@
 
 ###### [ibm][o'reilly] Developing Open Cloud Native Microservices
 ###### https://www.ibm.com/downloads/cas/G3L0EPOL
-
 ---
 
 ## // mngmt
 
 ###### open project : Open source project management software. Powerful. Easy-to-use. Free.
 ###### https://www.openproject.org/
-
 ---
 
 ## // open banking
