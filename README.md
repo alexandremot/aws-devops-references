@@ -13,6 +13,9 @@
 ###### udemy : certificacao amazon aws 2019 solutions architect
 ###### https://www.udemy.com/course/certificacao-amazon-aws-2019-solutions-architect/
 
+###### spring boot na aws
+###### https://youtu.be/c4AvqxnSJT8
+
 ## // aws python sdk<br>
 
 ###### Code examples that show how to use Boto3 to access Amazon Web Services (AWS).
