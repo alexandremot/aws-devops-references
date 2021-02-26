@@ -16,6 +16,19 @@
 ###### spring boot na aws
 ###### https://youtu.be/c4AvqxnSJT8
 
+
+## // aws certification<br>
+
+###### AWS Well-Architected
+###### https://aws.amazon.com/pt/architecture/well-architected
+
+###### New – EC2 Spot Instance Termination Notices
+###### https://aws.amazon.com/pt/blogs/aws/new-ec2-spot-instance-termination-notices/
+
+###### Quick Starts da AWS
+###### https://aws.amazon.com/pt/quickstart/
+
+
 ## // aws python sdk<br>
 
 ###### Code examples that show how to use Boto3 to access Amazon Web Services (AWS).
